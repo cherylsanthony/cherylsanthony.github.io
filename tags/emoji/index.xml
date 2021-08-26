@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>emoji - Tag - Cheryl Anthony</title>
+        <link>https://preview.benjaminjacobreji.xyz/tags/emoji/</link>
+        <description>emoji - Tag - Cheryl Anthony</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>cheryl.santhony@outlook.com (Cheryl Anthony)</managingEditor>
+            <webMaster>cheryl.santhony@outlook.com (Cheryl Anthony)</webMaster><lastBuildDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</lastBuildDate><atom:link href="https://preview.benjaminjacobreji.xyz/tags/emoji/" rel="self" type="application/rss+xml" /><item>
+    <title>Emoji Support</title>
+    <link>https://preview.benjaminjacobreji.xyz/emoji-support/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate><author>
+                    <name>Dillon</name><uri>https://preview.benjaminjacobreji.xyz/authors/dillon</uri></author><guid>https://preview.benjaminjacobreji.xyz/emoji-support/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image.webp" referrerpolicy="no-referrer">
+            </div><p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
+</item></channel>
+</rss>

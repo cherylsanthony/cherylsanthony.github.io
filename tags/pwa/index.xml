@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PWA - Tag - Cheryl Anthony</title>
+        <link>https://preview.benjaminjacobreji.xyz/tags/pwa/</link>
+        <description>PWA - Tag - Cheryl Anthony</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>cheryl.santhony@outlook.com (Cheryl Anthony)</managingEditor>
+            <webMaster>cheryl.santhony@outlook.com (Cheryl Anthony)</webMaster><lastBuildDate>Mon, 10 May 2021 16:21:41 &#43;0100</lastBuildDate><atom:link href="https://preview.benjaminjacobreji.xyz/tags/pwa/" rel="self" type="application/rss+xml" /><item>
+    <title>PWA Support</title>
+    <link>https://preview.benjaminjacobreji.xyz/pwa-support/</link>
+    <pubDate>Mon, 10 May 2021 16:21:41 &#43;0100</pubDate><author>
+                    <name>PCloud</name><uri>https://preview.benjaminjacobreji.xyz/authors/pcloud</uri></author><guid>https://preview.benjaminjacobreji.xyz/pwa-support/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image.webp" referrerpolicy="no-referrer">
+            </div><p>Find out how to turn your DoIt site into a Progressive Web App.</p>]]></description>
+</item></channel>
+</rss>
