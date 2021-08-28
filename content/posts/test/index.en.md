@@ -14,7 +14,7 @@ series = []
 subtitle = ""
 tags = []
 title = "test"
-weight = nil
+weight = 2
 [code]
 copy = true
 [comment]
