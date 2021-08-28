@@ -4,10 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Single Page
 - type: document
   path: content/about/index.en.md
   label: About
   match: "**/*"
+- type: heading
+  label: Folder Based
 - type: directory
   path: content/categories
   label: Categories
