@@ -109,3 +109,5 @@ fields:
     label: enable
     default: true
   label: comment
+pages:
+- content/posts/test/test.md
