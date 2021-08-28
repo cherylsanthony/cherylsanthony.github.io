@@ -14,10 +14,10 @@ comment:
   enable: true
 title: test
 subtitle: ''
-date: 
-lastmod: 
+date: 2021-08-28T00:00:00+04:00
+lastmod: 2021-08-28T00:00:00+04:00
 authors: []
-description: ''
+description: sdfsfsd
 featuredImage: ''
 tags: []
 categories: []
