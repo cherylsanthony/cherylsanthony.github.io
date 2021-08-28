@@ -1,0 +1,51 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: list
+  name: authors
+  label: authors
+- type: text
+  name: description
+  label: description
+- type: file
+  name: featuredImage
+  label: featuredImage
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: series
+  label: series
+- type: boolean
+  name: lightgallery
+  label: lightgallery
+- type: field_group
+  name: toc
+  label: toc
+  fields:
+  - type: boolean
+    name: auto
+    label: auto
+- type: field_group
+  name: math
+  label: math
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
