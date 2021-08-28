@@ -53,7 +53,7 @@ jobs:
 
     # Step 4 - Builds the site using Hugo
     - name: Build
-      run: hugo -v --baseURL "https://preview.benjaminjacobreji.xyz/"
+      run: hugo -v --baseURL "https://cherylsanthony.github.io/"
 
     # Step 5 - Push our generated Hugo site to Vercel
     - name: Deployment
