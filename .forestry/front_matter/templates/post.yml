@@ -2,21 +2,35 @@
 label: Post
 hide_body: false
 fields:
-- type: number
-  name: weight
-  label: weight
 - type: text
   name: title
   label: title
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: subtitle
 - type: datetime
   name: date
   label: date
+- name: draft
+  type: boolean
+  label: draft
+  default: false
+- type: number
+  name: weight
+  label: weight
 - type: datetime
   name: lastmod
   label: lastmod
 - type: list
   name: authors
   label: authors
+  config:
+    use_select: true
+    source:
+      type: simple
+  description: "[Cheryl]"
 - type: text
   name: description
   label: description
@@ -32,9 +46,24 @@ fields:
 - type: list
   name: series
   label: series
+- name: hiddenfromhomepage
+  type: boolean
+  label: hiddenFromHomePage
+- name: hiddenfromsearch
+  type: boolean
+  label: hiddenFromSearch
 - type: boolean
   name: lightgallery
   label: lightgallery
+  default: true
+- name: fontawesome
+  type: boolean
+  label: fontawesome
+  default: true
+- name: linktomarkdown
+  type: boolean
+  label: linkToMarkdown
+  default: true
 - type: field_group
   name: toc
   label: toc
@@ -42,6 +71,20 @@ fields:
   - type: boolean
     name: auto
     label: auto
+    default: true
+  - name: enable
+    type: boolean
+    label: enable
+    default: true
+- name: code
+  type: field_group
+  config: {}
+  fields:
+  - name: copy
+    type: boolean
+    label: copy
+    default: true
+  label: code
 - type: field_group
   name: math
   label: math
@@ -49,3 +92,21 @@ fields:
   - type: boolean
     name: enable
     label: enable
+- name: share
+  type: field_group
+  config: {}
+  fields:
+  - name: enable
+    type: boolean
+    label: enable
+    default: true
+  label: share
+- name: comment
+  type: field_group
+  config: {}
+  fields:
+  - name: enable
+    type: boolean
+    label: enable
+    default: true
+  label: comment
