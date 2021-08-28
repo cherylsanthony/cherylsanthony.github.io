@@ -1,3 +1,3 @@
 # cherylsanthony.github.io
 
-My website
+Cheryl's personal website and portfolio
