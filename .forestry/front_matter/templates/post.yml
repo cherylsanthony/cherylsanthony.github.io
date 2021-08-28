@@ -110,4 +110,4 @@ fields:
     default: true
   label: comment
 pages:
-- content/posts/test/index.en.md.md
+- content/posts/test/index.en.md
