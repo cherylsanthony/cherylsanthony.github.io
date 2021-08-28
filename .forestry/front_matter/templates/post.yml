@@ -27,10 +27,9 @@ fields:
   name: authors
   label: authors
   config:
-    use_select: true
+    use_select: false
     source:
       type: simple
-  description: "[Cheryl]"
 - type: text
   name: description
   label: description
