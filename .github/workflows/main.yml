@@ -11,7 +11,7 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "deploy-preview"
+  # This workflow contains a single job called "deploy-production"
   deploy-production:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -33,7 +33,7 @@ jobs:
       with:
         step: start
         token: ${{ secrets.GITHUB_TOKEN }}
-        env: Preview
+        env: Production
 
     # Step 2 - Install Hugo (specific version)
     - name: Install Hugo
@@ -53,7 +53,7 @@ jobs:
 
     # Step 4 - Builds the site using Hugo
     - name: Build
-      run: hugo -v --baseURL "https://preview.benjaminjacobreji.xyz/"
+      run: hugo -v --baseURL "https://cherylsanthony.github.io/"
 
     # Step 5 - Push our generated Hugo site to Vercel
     - name: Deployment
@@ -75,3 +75,4 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         status: ${{ job.status }}
         deployment_id: ${{ steps.deployment.outputs.deployment_id }}
+        env_url: https://cherylsanthony.github.io/
