@@ -2,6 +2,7 @@
 
 
 ### Current Ambition
+
 I am a Psychology student and am passionate about working professionally with adolescents and adults, I also have a deep interest in the development and wellbeing of adolescents. Along with this, I also love other fields within psychology such as  Social Psychology, Biopsychology and Forensic Psychology, thereby you will see a lot of posts pertaining to these topics.
 
 {{< admonition type=note title="Space Psychology" open=true >}}
@@ -9,6 +10,7 @@ As a nature lover and a psychology student, I also have a minor obsession in Spa
 {{< /admonition >}}
 
 ### For More
+
 If you're interested in more of my work do check out [Get Psyched Podcast](https://getpsyched.buzzsprout.com/1333201) where I along with my team discuss about psychology. We have a wide range of series- some of which involve the forensic psychology series and the neuropsychology series. I mainly host the Clinical and Applied Psychology series in a Case Studies format.
 
 {{< admonition type=info title="One of my favourite episodes" open=true >}}
