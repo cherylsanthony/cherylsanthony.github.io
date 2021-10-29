@@ -1,16 +1,13 @@
 ---
-title: "Hello! 😄"
-draft: false
-
+title: "Hello! \U0001F604"
 lightgallery: true
-
 math:
   enable: false
----
 
+---
 ### Current Ambition
 
-I am a Psychology student and am passionate about working professionally with adolescents and adults, I also have a deep interest in the development and wellbeing of adolescents. Along with this, I also love other fields within psychology such as  Social Psychology, Biopsychology and Forensic Psychology, thereby you will see a lot of posts pertaining to these topics.
+I am a Psychology student and am passionate about working professionally with adolescents and adults, I also have a deep interest in the development and wellbeing of adolescents. Along with this, I also love other fields within psychology such as  Social Psychology, Biopsychology, and Forensic Psychology, thereby you will see a lot of posts pertaining to these topics.
 
 {{< admonition type=note title="Space Psychology" open=true >}}
 As a nature lover and a psychology student, I also have a minor obsession in Space Psychology, which is the application of psychology within spaceflight. I understand this may be a niche field within I/O Psychology and Human Factors and isn't widely researched, but I think it would be interesting to address the issues faced by astronauts and how loneliness, reduced material comforts and so much more can impact the mental wellbeing. Thereby, I hope to keep this a short fun series.
