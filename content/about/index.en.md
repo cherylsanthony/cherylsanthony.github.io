@@ -1,6 +1,6 @@
 ---
 title: "Hello! \U0001F604"
-lightgallery: true
+lightgallery: false
 math:
   enable: false
 
