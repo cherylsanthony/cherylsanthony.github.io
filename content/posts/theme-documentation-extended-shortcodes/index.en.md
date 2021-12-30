@@ -6,7 +6,7 @@ lastmod: 2021-08-10T07:00:41+04:00
 authors: []
 description: ''
 resources: 
-featuredImage: "/media/coin-1.png"
+featuredImage: "/media/intro-extra-ee.png"
 featuredImagePreview: featured-image-preview.webp
 tags: []
 categories:
