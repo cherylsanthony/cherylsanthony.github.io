@@ -3,8 +3,7 @@ weight: 3
 title: The Psychology Behind Cancel Culture
 date: 2021-11-20T09:00:00+04:00
 lastmod: 2021-11-20T09:00:41+04:00
-authors:
-- Cheryl
+authors: []
 description: 'Understanding what causes people to cancel others using Social Identity
   Theory and Cognitive Dissonance Theory '
 featuredImage: "/media/cancel-cutlure.png"
