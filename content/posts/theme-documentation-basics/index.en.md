@@ -8,9 +8,9 @@ description: ''
 featuredImage: "/media/the-obsession-over-productivity.png"
 tags: []
 categories:
-- Psychobiology
+- Productivity
 series:
-- Psychobiology
+- Productivity
 lightgallery: false
 toc:
   auto: false
