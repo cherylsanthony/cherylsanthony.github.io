@@ -1,14 +1,16 @@
 ---
 weight: 1
 title: The Obsession over Productivity
-date: 2020-03-06T21:29:01.000+08:00
-lastmod: 2021-09-20T08:10:00+04:00
+date: 2021-09-18T08:00:01+04:00
+lastmod: 2021-09-18T08:00:00+04:00
 authors: []
 description: ''
 featuredImage: "/media/the-obsession-over-productivity.png"
 tags: []
-categories: []
-series: []
+categories:
+- Productitvity
+series:
+- Productivity
 lightgallery: false
 toc:
   auto: false
