@@ -6,7 +6,7 @@ lastmod: 2021-11-20T09:00:41+04:00
 authors: []
 description: 'Understanding what causes people to cancel others using Social Identity
   Theory and Cognitive Dissonance Theory '
-featuredImage: "/media/culture.png"
+featuredImage: "/media/cancel-cutlure.png"
 tags: []
 categories: []
 series: []
