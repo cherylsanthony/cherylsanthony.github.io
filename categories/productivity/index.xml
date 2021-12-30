@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Psychobiology - Series - Cheryl Anthony</title>
-        <link>https://cherylsanthony.github.io/series/psychobiology/</link>
-        <description>Psychobiology - Series - Cheryl Anthony</description>
+        <title>Productivity - Category - Cheryl Anthony</title>
+        <link>https://cherylsanthony.github.io/categories/productivity/</link>
+        <description>Productivity - Category - Cheryl Anthony</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>cheryl.santhony@outlook.com (Cheryl Anthony)</managingEditor>
-            <webMaster>cheryl.santhony@outlook.com (Cheryl Anthony)</webMaster><lastBuildDate>Sat, 18 Sep 2021 08:00:01 &#43;0400</lastBuildDate><atom:link href="https://cherylsanthony.github.io/series/psychobiology/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>cheryl.santhony@outlook.com (Cheryl Anthony)</webMaster><lastBuildDate>Sat, 18 Sep 2021 08:00:01 &#43;0400</lastBuildDate><atom:link href="https://cherylsanthony.github.io/categories/productivity/" rel="self" type="application/rss+xml" /><item>
     <title>The Obsession over Productivity</title>
     <link>https://cherylsanthony.github.io/theme-documentation-basics/</link>
     <pubDate>Sat, 18 Sep 2021 08:00:01 &#43;0400</pubDate><author>
