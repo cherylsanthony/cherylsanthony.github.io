@@ -7,8 +7,10 @@ authors: []
 description: ''
 featuredImage: "/media/addiction.png"
 tags: []
-categories: []
-series: []
+categories:
+- Psychobiology
+series:
+- Psychobiology
 lightgallery: false
 toc:
   auto: false
