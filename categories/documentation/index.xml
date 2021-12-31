@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Productivity - Category - Cheryl Anthony</title>
+        <title>documentation - Category - Cheryl Anthony</title>
         <link>https://cherylsanthony.github.io/categories/documentation/</link>
-        <description>Productivity - Category - Cheryl Anthony</description>
+        <description>documentation - Category - Cheryl Anthony</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>cheryl.santhony@outlook.com (Cheryl Anthony)</managingEditor>
             <webMaster>cheryl.santhony@outlook.com (Cheryl Anthony)</webMaster><lastBuildDate>Mon, 10 May 2021 16:21:41 &#43;0100</lastBuildDate><atom:link href="https://cherylsanthony.github.io/categories/documentation/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Markdown Syntax</title>
