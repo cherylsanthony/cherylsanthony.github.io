@@ -21,7 +21,7 @@ jobs:
 
     # Step 1 - Checks-out your repository under $GITHUB_WORKSPACE
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
 #           ssh-key: ${{ secrets.SUBMODULE_CONTENT_DEPLOY_KEY }}
           submodules: recursive  # Fetch theme and/or private content
