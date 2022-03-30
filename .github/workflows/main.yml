@@ -44,7 +44,7 @@ jobs:
 
     # Step 3 - Cache Hugo modules to speed up executions
     - name: Cache Hugo Modules
-      uses: actions/cache@v2
+      uses: actions/cache@v3.0.1
       with:
         path: /tmp/hugo_cache
         key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
